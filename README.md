@@ -39,11 +39,3 @@ Stored in a single preferences provider (React context + localStorage) covering:
 
 - No external API calls; all local date math
 - Works offline once loaded
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Contributing
-
-Small focused PRs welcome (bug fixes, accessibility, performance). Open an issue first for larger changes.
